@@ -3,7 +3,7 @@ layout: post
 title: Hola 
 ---
 
-Este es mi espacio profesional 
+Hi there! this is my personal website 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
