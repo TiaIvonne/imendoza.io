@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-[My resume](https://github.com/TiaIvonne/docs/blob/master/CV%20Ivonne%20Mendoza%20en%20-%20Documentos%20de%20Google.pdf)
+[My resume](https://resume.io/r/OIANNl7CO)
 
 ### More Information
 
